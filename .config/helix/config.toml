@@ -1,0 +1,39 @@
+theme="catppuccin_mocha"
+
+[editor.soft-wrap]
+enable = true
+
+[editor.whitespace.render]
+space = "all"
+tab = "all"
+nbsp = "all"
+nnbsp = "all"
+newline = "none"
+
+[editor.cursor-shape]
+insert = "underline"
+normal = "block"
+select = "block"
+
+[editor.lsp]
+display-messages = true
+display-inlay-hints = false
+
+[editor.indent-guides]
+render = true
+character = "╎" # Some characters that work well: "▏", "┆", "┊", "⸽"
+skip-levels = 1
+
+[editor]
+line-number = "relative"
+cursorline = true
+scroll-lines = 1
+bufferline = "multiple"
+auto-save = true
+auto-format = true
+
+[editor.file-picker]
+hidden = false
+
+[keys.normal]
+esc = ["collapse_selection", "keep_primary_selection"]

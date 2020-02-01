@@ -1,0 +1,2 @@
+set -gx DOCKER_IO_PASSWORD ""
+set -gx DIGITAL_OCEAN_TOKEN ""

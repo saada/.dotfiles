@@ -1,0 +1,153 @@
+{
+  "show_edit_predictions": true,
+  "assistant": {
+    "default_model": {
+      "provider": "zed.dev",
+      "model": "claude-3-7-sonnet-latest"
+    },
+    "version": "2"
+  },
+  "vim_mode": false,
+  "base_keymap": "Atom",
+  "theme": "Dracula",
+  "telemetry": {
+    "metrics": false
+  },
+  "ui_font_size": 18,
+  "buffer_font_size": 16.0,
+  "ui_font_family": "FiraCode Nerd Font",
+  "buffer_font_family": "FiraCode Nerd Font",
+  "relative_line_numbers": true,
+  "cursor_shape": "block",
+  "cursor_blink": false,
+  "tab_bar": {
+    "show": true
+  },
+  "toolbar": {
+    "breadcrumbs": true,
+    "quick_actions": false
+  },
+  "scrollbar": {
+    "show": "never"
+  },
+  "show_whitespaces": "all",
+  "autosave": "on_focus_change",
+  "format_on_save": "on",
+  "remove_trailing_whitespace_on_save": true,
+  "terminal": {
+    "shell": {
+      "with_arguments": {
+        "program": "/Users/saada/.flox/run/aarch64-darwin.default.run/bin/fish",
+        "args": ["--login"]
+      }
+    },
+    "env": {
+      "EDITOR": "zed --wait"
+    }
+  },
+  "lsp": {
+    "deno": {
+      "settings": {
+        "deno": {
+          "enable": true
+        }
+      }
+    }
+  },
+  "languages": {
+    // add tailwind intelisense to TSX and run biome autofixes
+    "TSX": {
+      "language_servers": [
+        "!typescript-language-server",
+        "!vtsls",
+        "!biome",
+        "deno",
+        "tailwindcss-language-server",
+        "..."
+      ],
+      "format_on_save": "on",
+      "formatter": {
+        "external": {
+          "command": "./node_modules/@biomejs/biome/bin/biome",
+          "arguments": [
+            "check",
+            "--write",
+            "--unsafe",
+            "--stdin-file-path",
+            "{buffer_path}"
+          ]
+        }
+      }
+    },
+    "TypeScript": {
+      "language_servers": [
+        "!typescript-language-server",
+        "!vtsls",
+        "!biome",
+        "deno",
+        "..."
+      ],
+      "format_on_save": "on",
+      "formatter": {
+        "external": {
+          "command": "./node_modules/@biomejs/biome/bin/biome",
+          "arguments": [
+            "check",
+            "--write",
+            "--unsafe",
+            "--stdin-file-path",
+            "{buffer_path}"
+          ]
+        }
+      }
+    },
+    "JavaScript": {
+      "language_servers": [
+        "!typescript-language-server",
+        "!vtsls",
+        "!biome",
+        "deno",
+        "..."
+      ],
+      "format_on_save": "on",
+      "formatter": {
+        "external": {
+          "command": "./node_modules/@biomejs/biome/bin/biome",
+          "arguments": [
+            "check",
+            "--write",
+            "--unsafe",
+            "--stdin-file-path",
+            "{buffer_path}"
+          ]
+        }
+      }
+    },
+    "JSX": {
+      "language_servers": [
+        "!typescript-language-server",
+        "!vtsls",
+        "!biome",
+        "deno",
+        "..."
+      ],
+      "format_on_save": "on",
+      "formatter": {
+        "external": {
+          "command": "./node_modules/@biomejs/biome/bin/biome",
+          "arguments": [
+            "check",
+            "--write",
+            "--unsafe",
+            "--stdin-file-path",
+            "{buffer_path}"
+          ]
+        }
+      }
+    }
+  }
+  // "code_actions_on_format": {
+  //   "source.fixAll.biome": true,
+  //   "source.organizeImports.biome": true
+  // }
+}

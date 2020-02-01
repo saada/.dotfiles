@@ -1,0 +1,12 @@
+/*
+/*/
+!.gitignore
+!fish
+!flox
+!ghostty
+!helix
+!htop
+!nvim
+!zed
+!zellij
+!starship.toml
