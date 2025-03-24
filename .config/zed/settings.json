@@ -8,7 +8,7 @@
     "version": "2"
   },
   "vim_mode": false,
-  "base_keymap": "Atom",
+  "base_keymap": "SublimeText",
   "theme": "Dracula",
   "telemetry": {
     "metrics": false
