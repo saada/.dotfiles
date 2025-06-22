@@ -3,7 +3,7 @@
   "assistant": {
     "default_model": {
       "provider": "zed.dev",
-      "model": "claude-3-7-sonnet-latest"
+      "model": "claude-3-7-sonnet-thinking"
     },
     "version": "2"
   },
@@ -14,7 +14,9 @@
     "metrics": false
   },
   "ui_font_size": 18,
+  "ui_font_weight": 500,
   "buffer_font_size": 16.0,
+  "buffer_font_weight": 800,
   "ui_font_family": "FiraCode Nerd Font",
   "buffer_font_family": "FiraCode Nerd Font",
   "relative_line_numbers": true,
