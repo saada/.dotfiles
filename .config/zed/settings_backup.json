@@ -1,6 +1,6 @@
 {
   "show_edit_predictions": true,
-  "agent": {
+  "assistant": {
     "default_model": {
       "provider": "zed.dev",
       "model": "claude-3-7-sonnet-thinking"
