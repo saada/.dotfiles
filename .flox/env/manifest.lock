@@ -3372,122 +3372,6 @@
       "priority": 5
     },
     {
-      "attr_path": "helix",
-      "broken": false,
-      "derivation": "/nix/store/8wg6kjg5vxry0brgdk87zg35g59hymgi-helix-25.07.1.drv",
-      "description": "Post-modern modal text editor",
-      "install_id": "helix",
-      "license": "MPL-2.0",
-      "locked_url": "https://github.com/flox/nixpkgs?rev=fbcf476f790d8a217c3eab4e12033dc4a0f6d23c",
-      "name": "helix-25.07.1",
-      "pname": "helix",
-      "rev": "fbcf476f790d8a217c3eab4e12033dc4a0f6d23c",
-      "rev_count": 844474,
-      "rev_date": "2025-08-14T15:51:38Z",
-      "scrape_date": "2025-08-16T01:27:10.772143Z",
-      "stabilities": [
-        "unstable"
-      ],
-      "unfree": false,
-      "version": "25.07.1",
-      "outputs_to_install": [
-        "out"
-      ],
-      "outputs": {
-        "out": "/nix/store/8x2167vlf7bhy0ljf9ns41z5hdrm6dm1-helix-25.07.1"
-      },
-      "system": "aarch64-darwin",
-      "group": "helix",
-      "priority": 5
-    },
-    {
-      "attr_path": "helix",
-      "broken": false,
-      "derivation": "/nix/store/sp9nxgw3cl8zqcafshra0mcpr6jh7rqc-helix-25.07.1.drv",
-      "description": "Post-modern modal text editor",
-      "install_id": "helix",
-      "license": "MPL-2.0",
-      "locked_url": "https://github.com/flox/nixpkgs?rev=fbcf476f790d8a217c3eab4e12033dc4a0f6d23c",
-      "name": "helix-25.07.1",
-      "pname": "helix",
-      "rev": "fbcf476f790d8a217c3eab4e12033dc4a0f6d23c",
-      "rev_count": 844474,
-      "rev_date": "2025-08-14T15:51:38Z",
-      "scrape_date": "2025-08-16T01:35:12.770498Z",
-      "stabilities": [
-        "unstable"
-      ],
-      "unfree": false,
-      "version": "25.07.1",
-      "outputs_to_install": [
-        "out"
-      ],
-      "outputs": {
-        "out": "/nix/store/fzmxn83zylji9lfpcf1lkqzpm1c2sar4-helix-25.07.1"
-      },
-      "system": "aarch64-linux",
-      "group": "helix",
-      "priority": 5
-    },
-    {
-      "attr_path": "helix",
-      "broken": false,
-      "derivation": "/nix/store/hxs5183vq92qa3wgng7kn55vyhgmiyr1-helix-25.07.1.drv",
-      "description": "Post-modern modal text editor",
-      "install_id": "helix",
-      "license": "MPL-2.0",
-      "locked_url": "https://github.com/flox/nixpkgs?rev=fbcf476f790d8a217c3eab4e12033dc4a0f6d23c",
-      "name": "helix-25.07.1",
-      "pname": "helix",
-      "rev": "fbcf476f790d8a217c3eab4e12033dc4a0f6d23c",
-      "rev_count": 844474,
-      "rev_date": "2025-08-14T15:51:38Z",
-      "scrape_date": "2025-08-16T01:43:50.697764Z",
-      "stabilities": [
-        "unstable"
-      ],
-      "unfree": false,
-      "version": "25.07.1",
-      "outputs_to_install": [
-        "out"
-      ],
-      "outputs": {
-        "out": "/nix/store/y7crlv4bamvia3wqawxfhzam19lqj7v1-helix-25.07.1"
-      },
-      "system": "x86_64-darwin",
-      "group": "helix",
-      "priority": 5
-    },
-    {
-      "attr_path": "helix",
-      "broken": false,
-      "derivation": "/nix/store/p0k0vdhhgp9m4dv4wkxvlqgvfbjzbpvj-helix-25.07.1.drv",
-      "description": "Post-modern modal text editor",
-      "install_id": "helix",
-      "license": "MPL-2.0",
-      "locked_url": "https://github.com/flox/nixpkgs?rev=fbcf476f790d8a217c3eab4e12033dc4a0f6d23c",
-      "name": "helix-25.07.1",
-      "pname": "helix",
-      "rev": "fbcf476f790d8a217c3eab4e12033dc4a0f6d23c",
-      "rev_count": 844474,
-      "rev_date": "2025-08-14T15:51:38Z",
-      "scrape_date": "2025-08-16T02:12:03.097226Z",
-      "stabilities": [
-        "unstable"
-      ],
-      "unfree": false,
-      "version": "25.07.1",
-      "outputs_to_install": [
-        "out"
-      ],
-      "outputs": {
-        "out": "/nix/store/j3lzmzlrjdvmyn1y3wddwh8aynsd2x2d-helix-25.07.1"
-      },
-      "system": "x86_64-linux",
-      "group": "helix",
-      "priority": 5
-    },
-    {
       "attr_path": "helm",
       "broken": false,
       "derivation": "/nix/store/qzb881jgcyjqk2igyrqkg7f758w38hl4-helm-0.9.0.drv",
@@ -6965,6 +6849,126 @@
       },
       "system": "x86_64-linux",
       "group": "zoxide",
+      "priority": 5
+    },
+    {
+      "attr_path": "helix",
+      "broken": false,
+      "derivation": "/nix/store/ic3xqsynm9pmdci4qrxcwy5qllg1qwj8-helix-25.07.1.drv",
+      "description": "Post-modern modal text editor",
+      "install_id": "helix",
+      "license": "MPL-2.0",
+      "locked_url": "https://github.com/flox/nixpkgs?rev=ab0f3607a6c7486ea22229b92ed2d355f1482ee0",
+      "name": "helix-25.07.1",
+      "pname": "helix",
+      "rev": "ab0f3607a6c7486ea22229b92ed2d355f1482ee0",
+      "rev_count": 859555,
+      "rev_date": "2025-09-10T06:58:08Z",
+      "scrape_date": "2025-09-12T02:06:25.216956Z",
+      "stabilities": [
+        "staging",
+        "unstable"
+      ],
+      "unfree": false,
+      "version": "25.07.1",
+      "outputs_to_install": [
+        "out"
+      ],
+      "outputs": {
+        "out": "/nix/store/ngr8xs8sld3lmgnrna57nbrvcz62bdp7-helix-25.07.1"
+      },
+      "system": "aarch64-darwin",
+      "group": "helix",
+      "priority": 5
+    },
+    {
+      "attr_path": "helix",
+      "broken": false,
+      "derivation": "/nix/store/22asi3jg6g10vjcjr4ychpq2g61hs46g-helix-25.07.1.drv",
+      "description": "Post-modern modal text editor",
+      "install_id": "helix",
+      "license": "MPL-2.0",
+      "locked_url": "https://github.com/flox/nixpkgs?rev=ab0f3607a6c7486ea22229b92ed2d355f1482ee0",
+      "name": "helix-25.07.1",
+      "pname": "helix",
+      "rev": "ab0f3607a6c7486ea22229b92ed2d355f1482ee0",
+      "rev_count": 859555,
+      "rev_date": "2025-09-10T06:58:08Z",
+      "scrape_date": "2025-09-12T02:41:09.983567Z",
+      "stabilities": [
+        "staging",
+        "unstable"
+      ],
+      "unfree": false,
+      "version": "25.07.1",
+      "outputs_to_install": [
+        "out"
+      ],
+      "outputs": {
+        "out": "/nix/store/5q4ych5kp4nacrsqw4kqdbmvsr78c8vd-helix-25.07.1"
+      },
+      "system": "aarch64-linux",
+      "group": "helix",
+      "priority": 5
+    },
+    {
+      "attr_path": "helix",
+      "broken": false,
+      "derivation": "/nix/store/gc2fxmib8hjq3z6g99y404irq4vph5v0-helix-25.07.1.drv",
+      "description": "Post-modern modal text editor",
+      "install_id": "helix",
+      "license": "MPL-2.0",
+      "locked_url": "https://github.com/flox/nixpkgs?rev=ab0f3607a6c7486ea22229b92ed2d355f1482ee0",
+      "name": "helix-25.07.1",
+      "pname": "helix",
+      "rev": "ab0f3607a6c7486ea22229b92ed2d355f1482ee0",
+      "rev_count": 859555,
+      "rev_date": "2025-09-10T06:58:08Z",
+      "scrape_date": "2025-09-12T03:13:29.382104Z",
+      "stabilities": [
+        "staging",
+        "unstable"
+      ],
+      "unfree": false,
+      "version": "25.07.1",
+      "outputs_to_install": [
+        "out"
+      ],
+      "outputs": {
+        "out": "/nix/store/70myslf435cb75l3xk6gww988yf80lhk-helix-25.07.1"
+      },
+      "system": "x86_64-darwin",
+      "group": "helix",
+      "priority": 5
+    },
+    {
+      "attr_path": "helix",
+      "broken": false,
+      "derivation": "/nix/store/fln5w2dp8vf66mv5g5ighkyvzqz38akh-helix-25.07.1.drv",
+      "description": "Post-modern modal text editor",
+      "install_id": "helix",
+      "license": "MPL-2.0",
+      "locked_url": "https://github.com/flox/nixpkgs?rev=ab0f3607a6c7486ea22229b92ed2d355f1482ee0",
+      "name": "helix-25.07.1",
+      "pname": "helix",
+      "rev": "ab0f3607a6c7486ea22229b92ed2d355f1482ee0",
+      "rev_count": 859555,
+      "rev_date": "2025-09-10T06:58:08Z",
+      "scrape_date": "2025-09-12T03:49:53.183756Z",
+      "stabilities": [
+        "staging",
+        "unstable"
+      ],
+      "unfree": false,
+      "version": "25.07.1",
+      "outputs_to_install": [
+        "out"
+      ],
+      "outputs": {
+        "out": "/nix/store/l8q6dxphk30l62r1g3fz4jvgwa0cgzv5-helix-25.07.1"
+      },
+      "system": "x86_64-linux",
+      "group": "helix",
       "priority": 5
     }
   ]
