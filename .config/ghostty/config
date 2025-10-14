@@ -1,17 +1,60 @@
+# ============================================================================
+# THEME - Everforest Dark Hard (very dark forest greens)
+# ============================================================================
+theme = Everforest Dark Hard
+
+# ============================================================================
+# SHELL
+# ============================================================================
+command = /opt/homebrew/bin/fish
 command = $HOME/.flox/run/aarch64-darwin.default.run/bin/fish -l
 shell-integration = fish
-theme = "Github Light High Contrast"
-theme = "Github Dark High Contrast"
-shell-integration = fish
-font-family = "FiraCode Nerd Font"
-font-thicken = true
-font-size = 24
 
+# ============================================================================
+# FONT
+# ============================================================================
+font-family = "FiraCode Nerd Font"
+font-size = 16
+font-thicken = true
+
+# ============================================================================
+# CURSOR
+# ============================================================================
 adjust-cursor-thickness = 20
-cursor-opacity=0.96
+cursor-opacity = 0.96
 cursor-style = block
 cursor-style-blink = false
 cursor-color = #ff0078
+
+# ============================================================================
+# macOS VISUAL POLISH
+# ============================================================================
+# Tabs style - cleaner tab appearance
+macos-titlebar-style = tabs
+
+# Hide tab bar when only one tab (cleaner look)
+window-show-tab-bar = auto
+
+# Beautiful window shadows
+macos-window-shadow = true
+
+# Window padding for breathing room
+window-padding-x = 10
+window-padding-y = 10
+
+# Subtle transparency + blur for modern aesthetic
+background-opacity = 0.95
+background-blur-radius = 20
+
+# Use Option key as Alt (useful for CLI tools)
+macos-option-as-alt = true
+
+# ============================================================================
+# KEYBINDINGS
+# ============================================================================
 keybind = shift+enter=text:\n
 
+# ============================================================================
+# UPDATES
+# ============================================================================
 auto-update-channel = tip
