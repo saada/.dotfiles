@@ -1,5 +1,17 @@
-theme = NvimDark
 command = $HOME/.flox/run/aarch64-darwin.default.run/bin/fish -l
-font-family = "FiraCode Nerd Font"
-font-size = 24
 shell-integration = fish
+theme = "Github Light High Contrast"
+theme = "Github Dark High Contrast"
+shell-integration = fish
+font-family = "FiraCode Nerd Font"
+font-thicken = true
+font-size = 24
+
+adjust-cursor-thickness = 20
+cursor-opacity=0.96
+cursor-style = block
+cursor-style-blink = false
+cursor-color = #ff0078
+keybind = shift+enter=text:\n
+
+auto-update-channel = tip
