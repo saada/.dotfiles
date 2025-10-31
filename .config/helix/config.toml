@@ -1,5 +1,14 @@
 theme="catppuccin_mocha"
 
+[editor]
+line-number = "relative"
+cursorline = true
+scroll-lines = 1
+bufferline = "multiple"
+auto-save = true
+auto-format = true
+default-yank-register = "+"
+
 [editor.soft-wrap]
 enable = true
 
@@ -23,14 +32,6 @@ display-inlay-hints = false
 render = true
 character = "╎" # Some characters that work well: "▏", "┆", "┊", "⸽"
 skip-levels = 1
-
-[editor]
-line-number = "relative"
-cursorline = true
-scroll-lines = 1
-bufferline = "multiple"
-auto-save = true
-auto-format = true
 
 [editor.file-picker]
 hidden = false
