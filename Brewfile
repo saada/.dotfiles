@@ -34,6 +34,7 @@ brew "rtmpdump"
 brew "sleepwatcher", restart_service: :changed
 brew "srt"
 brew "tcl-tk"
+brew "uv"
 brew "oven-sh/bun/bun"
 brew "wix/brew/applesimutils"
 cask "flox"
