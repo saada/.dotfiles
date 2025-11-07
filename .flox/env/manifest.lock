@@ -184,10 +184,6 @@
         "pkg-path": "parallel",
         "pkg-group": "parallel"
       },
-      "pulumi": {
-        "pkg-path": "pulumi",
-        "pkg-group": "pulumi"
-      },
       "python314": {
         "pkg-path": "python314",
         "pkg-group": "python314"
@@ -492,28 +488,28 @@
     {
       "attr_path": "awscli2",
       "broken": false,
-      "derivation": "/nix/store/9kbyh7l0x70xdx6ilj30p5fz9lkxq8yb-awscli2-2.28.1.drv",
+      "derivation": "/nix/store/wk7kxyccwpxgq3vix41khxjmhb2chqis-awscli2-2.31.11.drv",
       "description": "Unified tool to manage your AWS services",
       "install_id": "awscli2",
       "license": "Apache-2.0",
-      "locked_url": "https://github.com/flox/nixpkgs?rev=fbcf476f790d8a217c3eab4e12033dc4a0f6d23c",
-      "name": "awscli2-2.28.1",
+      "locked_url": "https://github.com/flox/nixpkgs?rev=b3d51a0365f6695e7dd5cdf3e180604530ed33b4",
+      "name": "awscli2-2.31.11",
       "pname": "awscli2",
-      "rev": "fbcf476f790d8a217c3eab4e12033dc4a0f6d23c",
-      "rev_count": 844474,
-      "rev_date": "2025-08-14T15:51:38Z",
-      "scrape_date": "2025-08-16T01:27:08.764020Z",
+      "rev": "b3d51a0365f6695e7dd5cdf3e180604530ed33b4",
+      "rev_count": 888552,
+      "rev_date": "2025-11-02T19:18:41Z",
+      "scrape_date": "2025-11-04T00:35:18.090988Z",
       "stabilities": [
         "unstable"
       ],
       "unfree": false,
-      "version": "2.28.1",
+      "version": "2.31.11",
       "outputs_to_install": [
         "out"
       ],
       "outputs": {
-        "dist": "/nix/store/bcqbw14w0689hslsnd9r1vqh8445n5d3-awscli2-2.28.1-dist",
-        "out": "/nix/store/rgavcd6nf9ycmm53r86js1n8zv6k5717-awscli2-2.28.1"
+        "dist": "/nix/store/rahm1y464x1mpcsyrqyqvi3jx8d133d1-awscli2-2.31.11-dist",
+        "out": "/nix/store/syyl22zc917z201wa7ghwyxrmdjda8gx-awscli2-2.31.11"
       },
       "system": "aarch64-darwin",
       "group": "awscli2",
@@ -522,28 +518,28 @@
     {
       "attr_path": "awscli2",
       "broken": false,
-      "derivation": "/nix/store/igw9sbk3lav7n1bxhby300bwdpwaq2sr-awscli2-2.28.1.drv",
+      "derivation": "/nix/store/m8jjbql22vjznpipwkkpawjwd5izwdyf-awscli2-2.31.11.drv",
       "description": "Unified tool to manage your AWS services",
       "install_id": "awscli2",
       "license": "Apache-2.0",
-      "locked_url": "https://github.com/flox/nixpkgs?rev=fbcf476f790d8a217c3eab4e12033dc4a0f6d23c",
-      "name": "awscli2-2.28.1",
+      "locked_url": "https://github.com/flox/nixpkgs?rev=b3d51a0365f6695e7dd5cdf3e180604530ed33b4",
+      "name": "awscli2-2.31.11",
       "pname": "awscli2",
-      "rev": "fbcf476f790d8a217c3eab4e12033dc4a0f6d23c",
-      "rev_count": 844474,
-      "rev_date": "2025-08-14T15:51:38Z",
-      "scrape_date": "2025-08-16T01:35:10.226935Z",
+      "rev": "b3d51a0365f6695e7dd5cdf3e180604530ed33b4",
+      "rev_count": 888552,
+      "rev_date": "2025-11-02T19:18:41Z",
+      "scrape_date": "2025-11-05T16:28:57.296477Z",
       "stabilities": [
         "unstable"
       ],
       "unfree": false,
-      "version": "2.28.1",
+      "version": "2.31.11",
       "outputs_to_install": [
         "out"
       ],
       "outputs": {
-        "dist": "/nix/store/bjn51pqs4q12ajiq8idsv4pxfi85zqyv-awscli2-2.28.1-dist",
-        "out": "/nix/store/agnnh10lr6xhvvyy9k74bbsiwaxd18ma-awscli2-2.28.1"
+        "dist": "/nix/store/cvfamk3633h4x98bdgj0kgcsnbfrxv69-awscli2-2.31.11-dist",
+        "out": "/nix/store/9vvkxynqnjglw0fjn2pzwxq590a8wyhb-awscli2-2.31.11"
       },
       "system": "aarch64-linux",
       "group": "awscli2",
@@ -552,28 +548,28 @@
     {
       "attr_path": "awscli2",
       "broken": false,
-      "derivation": "/nix/store/5wj368119a0bspwcspp7jfl2vaaxp762-awscli2-2.28.1.drv",
+      "derivation": "/nix/store/pix3i4npkh70gv67j2spyj35psif1d4n-awscli2-2.31.11.drv",
       "description": "Unified tool to manage your AWS services",
       "install_id": "awscli2",
       "license": "Apache-2.0",
-      "locked_url": "https://github.com/flox/nixpkgs?rev=fbcf476f790d8a217c3eab4e12033dc4a0f6d23c",
-      "name": "awscli2-2.28.1",
+      "locked_url": "https://github.com/flox/nixpkgs?rev=b3d51a0365f6695e7dd5cdf3e180604530ed33b4",
+      "name": "awscli2-2.31.11",
       "pname": "awscli2",
-      "rev": "fbcf476f790d8a217c3eab4e12033dc4a0f6d23c",
-      "rev_count": 844474,
-      "rev_date": "2025-08-14T15:51:38Z",
-      "scrape_date": "2025-08-16T01:43:49.256459Z",
+      "rev": "b3d51a0365f6695e7dd5cdf3e180604530ed33b4",
+      "rev_count": 888552,
+      "rev_date": "2025-11-02T19:18:41Z",
+      "scrape_date": "2025-11-05T16:54:57.124111Z",
       "stabilities": [
         "unstable"
       ],
       "unfree": false,
-      "version": "2.28.1",
+      "version": "2.31.11",
       "outputs_to_install": [
         "out"
       ],
       "outputs": {
-        "dist": "/nix/store/72zij4gvx5rhr4l8jn0d4bas35brf19h-awscli2-2.28.1-dist",
-        "out": "/nix/store/fy6lwzj66lhbzqx4023jpkl78l5sb3l4-awscli2-2.28.1"
+        "dist": "/nix/store/lrb7dygv5x0rfql77l4mj3bm7phhndgd-awscli2-2.31.11-dist",
+        "out": "/nix/store/ixhf6s2qp5dy5q3ri6i3w3rm38xqp105-awscli2-2.31.11"
       },
       "system": "x86_64-darwin",
       "group": "awscli2",
@@ -582,28 +578,28 @@
     {
       "attr_path": "awscli2",
       "broken": false,
-      "derivation": "/nix/store/dvnjpiqc63jr80shj91v3y4s2nhlvwim-awscli2-2.28.1.drv",
+      "derivation": "/nix/store/xhv17pw0d17r1rclvl9q14k8gvfa0p8z-awscli2-2.31.11.drv",
       "description": "Unified tool to manage your AWS services",
       "install_id": "awscli2",
       "license": "Apache-2.0",
-      "locked_url": "https://github.com/flox/nixpkgs?rev=fbcf476f790d8a217c3eab4e12033dc4a0f6d23c",
-      "name": "awscli2-2.28.1",
+      "locked_url": "https://github.com/flox/nixpkgs?rev=b3d51a0365f6695e7dd5cdf3e180604530ed33b4",
+      "name": "awscli2-2.31.11",
       "pname": "awscli2",
-      "rev": "fbcf476f790d8a217c3eab4e12033dc4a0f6d23c",
-      "rev_count": 844474,
-      "rev_date": "2025-08-14T15:51:38Z",
-      "scrape_date": "2025-08-16T02:12:00.253367Z",
+      "rev": "b3d51a0365f6695e7dd5cdf3e180604530ed33b4",
+      "rev_count": 888552,
+      "rev_date": "2025-11-02T19:18:41Z",
+      "scrape_date": "2025-11-05T17:20:46.567260Z",
       "stabilities": [
         "unstable"
       ],
       "unfree": false,
-      "version": "2.28.1",
+      "version": "2.31.11",
       "outputs_to_install": [
         "out"
       ],
       "outputs": {
-        "dist": "/nix/store/6ddshy6z4h24brknz0a1ahjdvbm7yl6s-awscli2-2.28.1-dist",
-        "out": "/nix/store/a830f5ksp5fa8v8fl0bw29amwazwbf50-awscli2-2.28.1"
+        "dist": "/nix/store/6y2nxxa9gd3wixznaajc5xffnsxixvgp-awscli2-2.31.11-dist",
+        "out": "/nix/store/slvn0v4fab6qc8qz11h8mfzpq8avdbz7-awscli2-2.31.11"
       },
       "system": "x86_64-linux",
       "group": "awscli2",
@@ -1340,17 +1336,17 @@
     {
       "attr_path": "direnv",
       "broken": false,
-      "derivation": "/nix/store/2byigpnnyn6fw01ablqr24dmgy8dn3ql-direnv-2.37.1.drv",
+      "derivation": "/nix/store/sa325vrfw1m11bnnz7jl0cfldbpqcq57-direnv-2.37.1.drv",
       "description": "Shell extension that manages your environment",
       "install_id": "direnv",
       "license": "MIT",
-      "locked_url": "https://github.com/flox/nixpkgs?rev=fbcf476f790d8a217c3eab4e12033dc4a0f6d23c",
+      "locked_url": "https://github.com/flox/nixpkgs?rev=b3d51a0365f6695e7dd5cdf3e180604530ed33b4",
       "name": "direnv-2.37.1",
       "pname": "direnv",
-      "rev": "fbcf476f790d8a217c3eab4e12033dc4a0f6d23c",
-      "rev_count": 844474,
-      "rev_date": "2025-08-14T15:51:38Z",
-      "scrape_date": "2025-08-16T01:27:09.874279Z",
+      "rev": "b3d51a0365f6695e7dd5cdf3e180604530ed33b4",
+      "rev_count": 888552,
+      "rev_date": "2025-11-02T19:18:41Z",
+      "scrape_date": "2025-11-04T00:35:18.600174Z",
       "stabilities": [
         "unstable"
       ],
@@ -1360,7 +1356,7 @@
         "out"
       ],
       "outputs": {
-        "out": "/nix/store/jx3qm446vnaz50kk6pjh4h5chn74ib2c-direnv-2.37.1"
+        "out": "/nix/store/7jfl43irizm04l5qwyfqd6wbc919fimb-direnv-2.37.1"
       },
       "system": "aarch64-darwin",
       "group": "direnv",
@@ -1369,17 +1365,17 @@
     {
       "attr_path": "direnv",
       "broken": false,
-      "derivation": "/nix/store/py3jzlp4rgdh8hic4vjw72ggrjhpfywc-direnv-2.37.1.drv",
+      "derivation": "/nix/store/w8gqmhr2zhsjzr6sm3ylq285xjmajjci-direnv-2.37.1.drv",
       "description": "Shell extension that manages your environment",
       "install_id": "direnv",
       "license": "MIT",
-      "locked_url": "https://github.com/flox/nixpkgs?rev=fbcf476f790d8a217c3eab4e12033dc4a0f6d23c",
+      "locked_url": "https://github.com/flox/nixpkgs?rev=b3d51a0365f6695e7dd5cdf3e180604530ed33b4",
       "name": "direnv-2.37.1",
       "pname": "direnv",
-      "rev": "fbcf476f790d8a217c3eab4e12033dc4a0f6d23c",
-      "rev_count": 844474,
-      "rev_date": "2025-08-14T15:51:38Z",
-      "scrape_date": "2025-08-16T01:35:10.970972Z",
+      "rev": "b3d51a0365f6695e7dd5cdf3e180604530ed33b4",
+      "rev_count": 888552,
+      "rev_date": "2025-11-02T19:18:41Z",
+      "scrape_date": "2025-11-05T16:28:58.001003Z",
       "stabilities": [
         "unstable"
       ],
@@ -1389,7 +1385,7 @@
         "out"
       ],
       "outputs": {
-        "out": "/nix/store/bqkp6cxz0lp3033iixxm2kvykvfsqvf8-direnv-2.37.1"
+        "out": "/nix/store/lms7js4cm30rsls4iwj64jafy6svly0d-direnv-2.37.1"
       },
       "system": "aarch64-linux",
       "group": "direnv",
@@ -1398,17 +1394,17 @@
     {
       "attr_path": "direnv",
       "broken": false,
-      "derivation": "/nix/store/d7p4gsq4m9cs0livprjcxv24gm9gn555-direnv-2.37.1.drv",
+      "derivation": "/nix/store/6iwficqp6zg36g762fk3vmwcbigi1az8-direnv-2.37.1.drv",
       "description": "Shell extension that manages your environment",
       "install_id": "direnv",
       "license": "MIT",
-      "locked_url": "https://github.com/flox/nixpkgs?rev=fbcf476f790d8a217c3eab4e12033dc4a0f6d23c",
+      "locked_url": "https://github.com/flox/nixpkgs?rev=b3d51a0365f6695e7dd5cdf3e180604530ed33b4",
       "name": "direnv-2.37.1",
       "pname": "direnv",
-      "rev": "fbcf476f790d8a217c3eab4e12033dc4a0f6d23c",
-      "rev_count": 844474,
-      "rev_date": "2025-08-14T15:51:38Z",
-      "scrape_date": "2025-08-16T01:43:49.770541Z",
+      "rev": "b3d51a0365f6695e7dd5cdf3e180604530ed33b4",
+      "rev_count": 888552,
+      "rev_date": "2025-11-02T19:18:41Z",
+      "scrape_date": "2025-11-05T16:54:57.645892Z",
       "stabilities": [
         "unstable"
       ],
@@ -1418,7 +1414,7 @@
         "out"
       ],
       "outputs": {
-        "out": "/nix/store/m77810day5glilqri3k3y9bz2v3vg72w-direnv-2.37.1"
+        "out": "/nix/store/7wzvf2w2jnxq3c95v4k0bw7wd3gdw8fd-direnv-2.37.1"
       },
       "system": "x86_64-darwin",
       "group": "direnv",
@@ -1427,17 +1423,17 @@
     {
       "attr_path": "direnv",
       "broken": false,
-      "derivation": "/nix/store/2wv035y4m7qciaas2mrm66rq2mvjzrb2-direnv-2.37.1.drv",
+      "derivation": "/nix/store/24r89j260w7x6f93g43k7zvk42d226pq-direnv-2.37.1.drv",
       "description": "Shell extension that manages your environment",
       "install_id": "direnv",
       "license": "MIT",
-      "locked_url": "https://github.com/flox/nixpkgs?rev=fbcf476f790d8a217c3eab4e12033dc4a0f6d23c",
+      "locked_url": "https://github.com/flox/nixpkgs?rev=b3d51a0365f6695e7dd5cdf3e180604530ed33b4",
       "name": "direnv-2.37.1",
       "pname": "direnv",
-      "rev": "fbcf476f790d8a217c3eab4e12033dc4a0f6d23c",
-      "rev_count": 844474,
-      "rev_date": "2025-08-14T15:51:38Z",
-      "scrape_date": "2025-08-16T02:12:01.080136Z",
+      "rev": "b3d51a0365f6695e7dd5cdf3e180604530ed33b4",
+      "rev_count": 888552,
+      "rev_date": "2025-11-02T19:18:41Z",
+      "scrape_date": "2025-11-05T17:20:47.351259Z",
       "stabilities": [
         "unstable"
       ],
@@ -1447,7 +1443,7 @@
         "out"
       ],
       "outputs": {
-        "out": "/nix/store/qj6a7xr3knnl5wjs3rvr8ajbjkxbn32f-direnv-2.37.1"
+        "out": "/nix/store/3by7b7afc50p6v1khzj7wyml1rdmagff-direnv-2.37.1"
       },
       "system": "x86_64-linux",
       "group": "direnv",
@@ -3369,6 +3365,122 @@
       },
       "system": "x86_64-linux",
       "group": "go-task",
+      "priority": 5
+    },
+    {
+      "attr_path": "helix",
+      "broken": false,
+      "derivation": "/nix/store/48p9yzjhm8msqz0l4drmhm7dn2cxd2f8-helix-25.07.1.drv",
+      "description": "Post-modern modal text editor",
+      "install_id": "helix",
+      "license": "MPL-2.0",
+      "locked_url": "https://github.com/flox/nixpkgs?rev=b3d51a0365f6695e7dd5cdf3e180604530ed33b4",
+      "name": "helix-25.07.1",
+      "pname": "helix",
+      "rev": "b3d51a0365f6695e7dd5cdf3e180604530ed33b4",
+      "rev_count": 888552,
+      "rev_date": "2025-11-02T19:18:41Z",
+      "scrape_date": "2025-11-04T00:35:31.901924Z",
+      "stabilities": [
+        "unstable"
+      ],
+      "unfree": false,
+      "version": "25.07.1",
+      "outputs_to_install": [
+        "out"
+      ],
+      "outputs": {
+        "out": "/nix/store/xkqwkr94b9p123qjcy1kcdq0r6h88ijc-helix-25.07.1"
+      },
+      "system": "aarch64-darwin",
+      "group": "helix",
+      "priority": 5
+    },
+    {
+      "attr_path": "helix",
+      "broken": false,
+      "derivation": "/nix/store/hjxsjqh5s9raf68h1wd7k8w9zmgs1n6q-helix-25.07.1.drv",
+      "description": "Post-modern modal text editor",
+      "install_id": "helix",
+      "license": "MPL-2.0",
+      "locked_url": "https://github.com/flox/nixpkgs?rev=b3d51a0365f6695e7dd5cdf3e180604530ed33b4",
+      "name": "helix-25.07.1",
+      "pname": "helix",
+      "rev": "b3d51a0365f6695e7dd5cdf3e180604530ed33b4",
+      "rev_count": 888552,
+      "rev_date": "2025-11-02T19:18:41Z",
+      "scrape_date": "2025-11-05T16:29:15.118810Z",
+      "stabilities": [
+        "unstable"
+      ],
+      "unfree": false,
+      "version": "25.07.1",
+      "outputs_to_install": [
+        "out"
+      ],
+      "outputs": {
+        "out": "/nix/store/8chyk7hwndfikwrw0dkgzpjlf5kn073s-helix-25.07.1"
+      },
+      "system": "aarch64-linux",
+      "group": "helix",
+      "priority": 5
+    },
+    {
+      "attr_path": "helix",
+      "broken": false,
+      "derivation": "/nix/store/xvx8fmyww9g1l7zfcr2ib86ah10mwwfz-helix-25.07.1.drv",
+      "description": "Post-modern modal text editor",
+      "install_id": "helix",
+      "license": "MPL-2.0",
+      "locked_url": "https://github.com/flox/nixpkgs?rev=b3d51a0365f6695e7dd5cdf3e180604530ed33b4",
+      "name": "helix-25.07.1",
+      "pname": "helix",
+      "rev": "b3d51a0365f6695e7dd5cdf3e180604530ed33b4",
+      "rev_count": 888552,
+      "rev_date": "2025-11-02T19:18:41Z",
+      "scrape_date": "2025-11-05T16:55:11.837799Z",
+      "stabilities": [
+        "unstable"
+      ],
+      "unfree": false,
+      "version": "25.07.1",
+      "outputs_to_install": [
+        "out"
+      ],
+      "outputs": {
+        "out": "/nix/store/7i45lvhr8nw64l5rs75jmha2syppac7m-helix-25.07.1"
+      },
+      "system": "x86_64-darwin",
+      "group": "helix",
+      "priority": 5
+    },
+    {
+      "attr_path": "helix",
+      "broken": false,
+      "derivation": "/nix/store/ck7c0fsrqd2yaqf5kbhcdyc5yzqw2y25-helix-25.07.1.drv",
+      "description": "Post-modern modal text editor",
+      "install_id": "helix",
+      "license": "MPL-2.0",
+      "locked_url": "https://github.com/flox/nixpkgs?rev=b3d51a0365f6695e7dd5cdf3e180604530ed33b4",
+      "name": "helix-25.07.1",
+      "pname": "helix",
+      "rev": "b3d51a0365f6695e7dd5cdf3e180604530ed33b4",
+      "rev_count": 888552,
+      "rev_date": "2025-11-02T19:18:41Z",
+      "scrape_date": "2025-11-05T17:21:05.596625Z",
+      "stabilities": [
+        "unstable"
+      ],
+      "unfree": false,
+      "version": "25.07.1",
+      "outputs_to_install": [
+        "out"
+      ],
+      "outputs": {
+        "out": "/nix/store/kc5djbg7539wij3byaqgdni1p7249yq1-helix-25.07.1"
+      },
+      "system": "x86_64-linux",
+      "group": "helix",
       "priority": 5
     },
     {
@@ -5342,122 +5454,6 @@
       "priority": 5
     },
     {
-      "attr_path": "pulumi",
-      "broken": false,
-      "derivation": "/nix/store/n2v4csjg0gjc8prng395za379qsxy9fh-pulumi-3.185.0.drv",
-      "description": "Cloud development platform that makes creating cloud programs easy and productive",
-      "install_id": "pulumi",
-      "license": "Apache-2.0",
-      "locked_url": "https://github.com/flox/nixpkgs?rev=fbcf476f790d8a217c3eab4e12033dc4a0f6d23c",
-      "name": "pulumi-3.185.0",
-      "pname": "pulumi",
-      "rev": "fbcf476f790d8a217c3eab4e12033dc4a0f6d23c",
-      "rev_count": 844474,
-      "rev_date": "2025-08-14T15:51:38Z",
-      "scrape_date": "2025-08-16T01:27:21.541963Z",
-      "stabilities": [
-        "unstable"
-      ],
-      "unfree": false,
-      "version": "3.185.0",
-      "outputs_to_install": [
-        "out"
-      ],
-      "outputs": {
-        "out": "/nix/store/4bvrwnls681x5yi6z0dk4i6sdci19dmv-pulumi-3.185.0"
-      },
-      "system": "aarch64-darwin",
-      "group": "pulumi",
-      "priority": 5
-    },
-    {
-      "attr_path": "pulumi",
-      "broken": false,
-      "derivation": "/nix/store/2hd1cwgm0n44fvbkqkbk24wpmd7kv6d4-pulumi-3.185.0.drv",
-      "description": "Cloud development platform that makes creating cloud programs easy and productive",
-      "install_id": "pulumi",
-      "license": "Apache-2.0",
-      "locked_url": "https://github.com/flox/nixpkgs?rev=fbcf476f790d8a217c3eab4e12033dc4a0f6d23c",
-      "name": "pulumi-3.185.0",
-      "pname": "pulumi",
-      "rev": "fbcf476f790d8a217c3eab4e12033dc4a0f6d23c",
-      "rev_count": 844474,
-      "rev_date": "2025-08-14T15:51:38Z",
-      "scrape_date": "2025-08-16T01:35:38.539537Z",
-      "stabilities": [
-        "unstable"
-      ],
-      "unfree": false,
-      "version": "3.185.0",
-      "outputs_to_install": [
-        "out"
-      ],
-      "outputs": {
-        "out": "/nix/store/rql14n80fhs6r73qj0qp0hgayr062j7n-pulumi-3.185.0"
-      },
-      "system": "aarch64-linux",
-      "group": "pulumi",
-      "priority": 5
-    },
-    {
-      "attr_path": "pulumi",
-      "broken": false,
-      "derivation": "/nix/store/c3qaa7c053xnza3p2wl446jqpgz23f7n-pulumi-3.185.0.drv",
-      "description": "Cloud development platform that makes creating cloud programs easy and productive",
-      "install_id": "pulumi",
-      "license": "Apache-2.0",
-      "locked_url": "https://github.com/flox/nixpkgs?rev=fbcf476f790d8a217c3eab4e12033dc4a0f6d23c",
-      "name": "pulumi-3.185.0",
-      "pname": "pulumi",
-      "rev": "fbcf476f790d8a217c3eab4e12033dc4a0f6d23c",
-      "rev_count": 844474,
-      "rev_date": "2025-08-14T15:51:38Z",
-      "scrape_date": "2025-08-16T01:44:01.481742Z",
-      "stabilities": [
-        "unstable"
-      ],
-      "unfree": false,
-      "version": "3.185.0",
-      "outputs_to_install": [
-        "out"
-      ],
-      "outputs": {
-        "out": "/nix/store/arbn3yc7wzirimvcr5qjcbfzdh2j5j45-pulumi-3.185.0"
-      },
-      "system": "x86_64-darwin",
-      "group": "pulumi",
-      "priority": 5
-    },
-    {
-      "attr_path": "pulumi",
-      "broken": false,
-      "derivation": "/nix/store/j07b2n10mvs5wgcsm94w643rdf149x5v-pulumi-3.185.0.drv",
-      "description": "Cloud development platform that makes creating cloud programs easy and productive",
-      "install_id": "pulumi",
-      "license": "Apache-2.0",
-      "locked_url": "https://github.com/flox/nixpkgs?rev=fbcf476f790d8a217c3eab4e12033dc4a0f6d23c",
-      "name": "pulumi-3.185.0",
-      "pname": "pulumi",
-      "rev": "fbcf476f790d8a217c3eab4e12033dc4a0f6d23c",
-      "rev_count": 844474,
-      "rev_date": "2025-08-14T15:51:38Z",
-      "scrape_date": "2025-08-16T02:12:32.486332Z",
-      "stabilities": [
-        "unstable"
-      ],
-      "unfree": false,
-      "version": "3.185.0",
-      "outputs_to_install": [
-        "out"
-      ],
-      "outputs": {
-        "out": "/nix/store/yapplr29i2zp6gbdc7xwl6ji09qd6vn8-pulumi-3.185.0"
-      },
-      "system": "x86_64-linux",
-      "group": "pulumi",
-      "priority": 5
-    },
-    {
       "attr_path": "python314",
       "broken": false,
       "derivation": "/nix/store/x9jr66srrl3jakkyqs3qyjc7vk7ixrns-python3-3.14.0rc1.drv",
@@ -6849,126 +6845,6 @@
       },
       "system": "x86_64-linux",
       "group": "zoxide",
-      "priority": 5
-    },
-    {
-      "attr_path": "helix",
-      "broken": false,
-      "derivation": "/nix/store/ic3xqsynm9pmdci4qrxcwy5qllg1qwj8-helix-25.07.1.drv",
-      "description": "Post-modern modal text editor",
-      "install_id": "helix",
-      "license": "MPL-2.0",
-      "locked_url": "https://github.com/flox/nixpkgs?rev=ab0f3607a6c7486ea22229b92ed2d355f1482ee0",
-      "name": "helix-25.07.1",
-      "pname": "helix",
-      "rev": "ab0f3607a6c7486ea22229b92ed2d355f1482ee0",
-      "rev_count": 859555,
-      "rev_date": "2025-09-10T06:58:08Z",
-      "scrape_date": "2025-09-12T02:06:25.216956Z",
-      "stabilities": [
-        "staging",
-        "unstable"
-      ],
-      "unfree": false,
-      "version": "25.07.1",
-      "outputs_to_install": [
-        "out"
-      ],
-      "outputs": {
-        "out": "/nix/store/ngr8xs8sld3lmgnrna57nbrvcz62bdp7-helix-25.07.1"
-      },
-      "system": "aarch64-darwin",
-      "group": "helix",
-      "priority": 5
-    },
-    {
-      "attr_path": "helix",
-      "broken": false,
-      "derivation": "/nix/store/22asi3jg6g10vjcjr4ychpq2g61hs46g-helix-25.07.1.drv",
-      "description": "Post-modern modal text editor",
-      "install_id": "helix",
-      "license": "MPL-2.0",
-      "locked_url": "https://github.com/flox/nixpkgs?rev=ab0f3607a6c7486ea22229b92ed2d355f1482ee0",
-      "name": "helix-25.07.1",
-      "pname": "helix",
-      "rev": "ab0f3607a6c7486ea22229b92ed2d355f1482ee0",
-      "rev_count": 859555,
-      "rev_date": "2025-09-10T06:58:08Z",
-      "scrape_date": "2025-09-12T02:41:09.983567Z",
-      "stabilities": [
-        "staging",
-        "unstable"
-      ],
-      "unfree": false,
-      "version": "25.07.1",
-      "outputs_to_install": [
-        "out"
-      ],
-      "outputs": {
-        "out": "/nix/store/5q4ych5kp4nacrsqw4kqdbmvsr78c8vd-helix-25.07.1"
-      },
-      "system": "aarch64-linux",
-      "group": "helix",
-      "priority": 5
-    },
-    {
-      "attr_path": "helix",
-      "broken": false,
-      "derivation": "/nix/store/gc2fxmib8hjq3z6g99y404irq4vph5v0-helix-25.07.1.drv",
-      "description": "Post-modern modal text editor",
-      "install_id": "helix",
-      "license": "MPL-2.0",
-      "locked_url": "https://github.com/flox/nixpkgs?rev=ab0f3607a6c7486ea22229b92ed2d355f1482ee0",
-      "name": "helix-25.07.1",
-      "pname": "helix",
-      "rev": "ab0f3607a6c7486ea22229b92ed2d355f1482ee0",
-      "rev_count": 859555,
-      "rev_date": "2025-09-10T06:58:08Z",
-      "scrape_date": "2025-09-12T03:13:29.382104Z",
-      "stabilities": [
-        "staging",
-        "unstable"
-      ],
-      "unfree": false,
-      "version": "25.07.1",
-      "outputs_to_install": [
-        "out"
-      ],
-      "outputs": {
-        "out": "/nix/store/70myslf435cb75l3xk6gww988yf80lhk-helix-25.07.1"
-      },
-      "system": "x86_64-darwin",
-      "group": "helix",
-      "priority": 5
-    },
-    {
-      "attr_path": "helix",
-      "broken": false,
-      "derivation": "/nix/store/fln5w2dp8vf66mv5g5ighkyvzqz38akh-helix-25.07.1.drv",
-      "description": "Post-modern modal text editor",
-      "install_id": "helix",
-      "license": "MPL-2.0",
-      "locked_url": "https://github.com/flox/nixpkgs?rev=ab0f3607a6c7486ea22229b92ed2d355f1482ee0",
-      "name": "helix-25.07.1",
-      "pname": "helix",
-      "rev": "ab0f3607a6c7486ea22229b92ed2d355f1482ee0",
-      "rev_count": 859555,
-      "rev_date": "2025-09-10T06:58:08Z",
-      "scrape_date": "2025-09-12T03:49:53.183756Z",
-      "stabilities": [
-        "staging",
-        "unstable"
-      ],
-      "unfree": false,
-      "version": "25.07.1",
-      "outputs_to_install": [
-        "out"
-      ],
-      "outputs": {
-        "out": "/nix/store/l8q6dxphk30l62r1g3fz4jvgwa0cgzv5-helix-25.07.1"
-      },
-      "system": "x86_64-linux",
-      "group": "helix",
       "priority": 5
     }
   ]
