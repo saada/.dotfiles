@@ -28,8 +28,8 @@ cursor-color = #ff0078
 # ============================================================================
 # macOS VISUAL POLISH
 # ============================================================================
-# Tabs style - cleaner tab appearance
-macos-titlebar-style = tabs
+# Titlebar style - native tabs with transparency effects on terminal
+macos-titlebar-style = native
 
 # Hide tab bar when only one tab (cleaner look)
 window-show-tab-bar = auto
@@ -41,12 +41,15 @@ macos-window-shadow = true
 window-padding-x = 10
 window-padding-y = 10
 
-# Subtle transparency + blur for modern aesthetic
-background-opacity = 0.95
-background-blur-radius = 20
+# Enhanced transparency + blur for modern aesthetic
+background-opacity = 0.80
+background-blur-radius = 40
 
 # Use Option key as Alt (useful for CLI tools)
 macos-option-as-alt = true
+
+# Split divider - make it more visible
+split-divider-color = #7a8478
 
 # ============================================================================
 # KEYBINDINGS
