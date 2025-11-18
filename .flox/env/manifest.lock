@@ -2778,128 +2778,6 @@
       "priority": 5
     },
     {
-      "attr_path": "git",
-      "broken": false,
-      "derivation": "/nix/store/3banc23ciflsbh75khhgiswwpfwcv08g-git-2.50.1.drv",
-      "description": "Distributed version control system",
-      "install_id": "git",
-      "license": "GPL-2.0",
-      "locked_url": "https://github.com/flox/nixpkgs?rev=fbcf476f790d8a217c3eab4e12033dc4a0f6d23c",
-      "name": "git-2.50.1",
-      "pname": "git",
-      "rev": "fbcf476f790d8a217c3eab4e12033dc4a0f6d23c",
-      "rev_count": 844474,
-      "rev_date": "2025-08-14T15:51:38Z",
-      "scrape_date": "2025-08-16T01:27:10.404677Z",
-      "stabilities": [
-        "unstable"
-      ],
-      "unfree": false,
-      "version": "2.50.1",
-      "outputs_to_install": [
-        "out"
-      ],
-      "outputs": {
-        "doc": "/nix/store/j8djmq64ckbah7bl6jv1y6arrjr0shmv-git-2.50.1-doc",
-        "out": "/nix/store/jn9byxgdjndngf0d2by0djg8gcdll7xc-git-2.50.1"
-      },
-      "system": "aarch64-darwin",
-      "group": "git",
-      "priority": 5
-    },
-    {
-      "attr_path": "git",
-      "broken": false,
-      "derivation": "/nix/store/q8hm799dph7mklvjdjzzl0z8xjn3f62s-git-2.50.1.drv",
-      "description": "Distributed version control system",
-      "install_id": "git",
-      "license": "GPL-2.0",
-      "locked_url": "https://github.com/flox/nixpkgs?rev=fbcf476f790d8a217c3eab4e12033dc4a0f6d23c",
-      "name": "git-2.50.1",
-      "pname": "git",
-      "rev": "fbcf476f790d8a217c3eab4e12033dc4a0f6d23c",
-      "rev_count": 844474,
-      "rev_date": "2025-08-14T15:51:38Z",
-      "scrape_date": "2025-08-16T01:35:11.799685Z",
-      "stabilities": [
-        "unstable"
-      ],
-      "unfree": false,
-      "version": "2.50.1",
-      "outputs_to_install": [
-        "out"
-      ],
-      "outputs": {
-        "debug": "/nix/store/rpxnrnsn4nbx8wm9d2vrgj0fr5xzz5lg-git-2.50.1-debug",
-        "doc": "/nix/store/q8sicpx16gyzxnp3345a46lj4cz9wd09-git-2.50.1-doc",
-        "out": "/nix/store/h4pvvix6pvnvys9a6y1xj2442r1ajdhl-git-2.50.1"
-      },
-      "system": "aarch64-linux",
-      "group": "git",
-      "priority": 5
-    },
-    {
-      "attr_path": "git",
-      "broken": false,
-      "derivation": "/nix/store/cq4s1wkzc8mq2sq2h5398a0b1gy7zrny-git-2.50.1.drv",
-      "description": "Distributed version control system",
-      "install_id": "git",
-      "license": "GPL-2.0",
-      "locked_url": "https://github.com/flox/nixpkgs?rev=fbcf476f790d8a217c3eab4e12033dc4a0f6d23c",
-      "name": "git-2.50.1",
-      "pname": "git",
-      "rev": "fbcf476f790d8a217c3eab4e12033dc4a0f6d23c",
-      "rev_count": 844474,
-      "rev_date": "2025-08-14T15:51:38Z",
-      "scrape_date": "2025-08-16T01:43:50.275849Z",
-      "stabilities": [
-        "unstable"
-      ],
-      "unfree": false,
-      "version": "2.50.1",
-      "outputs_to_install": [
-        "out"
-      ],
-      "outputs": {
-        "doc": "/nix/store/yn9cvbs7jz4dfdb17qralgr0ybi5rmjf-git-2.50.1-doc",
-        "out": "/nix/store/8d1n8cvi5x1j0v61459lvhqs26vmcqbl-git-2.50.1"
-      },
-      "system": "x86_64-darwin",
-      "group": "git",
-      "priority": 5
-    },
-    {
-      "attr_path": "git",
-      "broken": false,
-      "derivation": "/nix/store/h0jawfyrfcnl8n7lzy8hh5xmc25a1v6d-git-2.50.1.drv",
-      "description": "Distributed version control system",
-      "install_id": "git",
-      "license": "GPL-2.0",
-      "locked_url": "https://github.com/flox/nixpkgs?rev=fbcf476f790d8a217c3eab4e12033dc4a0f6d23c",
-      "name": "git-2.50.1",
-      "pname": "git",
-      "rev": "fbcf476f790d8a217c3eab4e12033dc4a0f6d23c",
-      "rev_count": 844474,
-      "rev_date": "2025-08-14T15:51:38Z",
-      "scrape_date": "2025-08-16T02:12:01.998761Z",
-      "stabilities": [
-        "unstable"
-      ],
-      "unfree": false,
-      "version": "2.50.1",
-      "outputs_to_install": [
-        "out"
-      ],
-      "outputs": {
-        "debug": "/nix/store/l46kpjpcwwp8l7kzzr1s2dlk646r73z2-git-2.50.1-debug",
-        "doc": "/nix/store/d2lhlzkdziwmijik8nszfwp8srbkskb9-git-2.50.1-doc",
-        "out": "/nix/store/5i8zvall945kypmwgqd0y47f02pldwp4-git-2.50.1"
-      },
-      "system": "x86_64-linux",
-      "group": "git",
-      "priority": 5
-    },
-    {
       "attr_path": "git-lfs",
       "broken": false,
       "derivation": "/nix/store/y3lc64svwf06zzgay3pv01cs03fcr78h-git-lfs-3.6.1.drv",
@@ -6845,6 +6723,116 @@
       },
       "system": "x86_64-linux",
       "group": "zoxide",
+      "priority": 5
+    },
+    {
+      "attr_path": "git",
+      "broken": false,
+      "derivation": "/nix/store/17j6wak8miibg1wmx3fw4wpwilx5nbdb-git-2.51.2.drv",
+      "description": "Distributed version control system",
+      "install_id": "git",
+      "license": "GPL-2.0",
+      "locked_url": "https://github.com/flox/nixpkgs?rev=50a96edd8d0db6cc8db57dab6bb6d6ee1f3dc49a",
+      "name": "git-2.51.2",
+      "pname": "git",
+      "rev": "50a96edd8d0db6cc8db57dab6bb6d6ee1f3dc49a",
+      "rev_count": 896953,
+      "rev_date": "2025-11-16T09:02:56Z",
+      "scrape_date": "2025-11-18T04:33:38.468375Z",
+      "unfree": false,
+      "version": "2.51.2",
+      "outputs_to_install": [
+        "out"
+      ],
+      "outputs": {
+        "doc": "/nix/store/6x44hx2f6g1y1viiaian2bvypb8djq39-git-2.51.2-doc",
+        "out": "/nix/store/k2vlwnvjcmnig77p65zipibvvim8rxq7-git-2.51.2"
+      },
+      "system": "aarch64-darwin",
+      "group": "git",
+      "priority": 5
+    },
+    {
+      "attr_path": "git",
+      "broken": false,
+      "derivation": "/nix/store/daw8d80k1hhw9bahfzinrg0jyc3l7xiq-git-2.51.2.drv",
+      "description": "Distributed version control system",
+      "install_id": "git",
+      "license": "GPL-2.0",
+      "locked_url": "https://github.com/flox/nixpkgs?rev=50a96edd8d0db6cc8db57dab6bb6d6ee1f3dc49a",
+      "name": "git-2.51.2",
+      "pname": "git",
+      "rev": "50a96edd8d0db6cc8db57dab6bb6d6ee1f3dc49a",
+      "rev_count": 896953,
+      "rev_date": "2025-11-16T09:02:56Z",
+      "scrape_date": "2025-11-18T05:03:41.675058Z",
+      "unfree": false,
+      "version": "2.51.2",
+      "outputs_to_install": [
+        "out"
+      ],
+      "outputs": {
+        "debug": "/nix/store/vspa1pprrnj7xz3bhqayzih5mi7vhvvh-git-2.51.2-debug",
+        "doc": "/nix/store/6zdv508cvrgfsnvvv5003ivsfcqngfvs-git-2.51.2-doc",
+        "out": "/nix/store/55j9qicj9fghz8yk3xsn2y9ab5mj4jdr-git-2.51.2"
+      },
+      "system": "aarch64-linux",
+      "group": "git",
+      "priority": 5
+    },
+    {
+      "attr_path": "git",
+      "broken": false,
+      "derivation": "/nix/store/dg186p6kjj7g0sl4vvsv643ak1p58dkg-git-2.51.2.drv",
+      "description": "Distributed version control system",
+      "install_id": "git",
+      "license": "GPL-2.0",
+      "locked_url": "https://github.com/flox/nixpkgs?rev=50a96edd8d0db6cc8db57dab6bb6d6ee1f3dc49a",
+      "name": "git-2.51.2",
+      "pname": "git",
+      "rev": "50a96edd8d0db6cc8db57dab6bb6d6ee1f3dc49a",
+      "rev_count": 896953,
+      "rev_date": "2025-11-16T09:02:56Z",
+      "scrape_date": "2025-11-18T05:31:27.917150Z",
+      "unfree": false,
+      "version": "2.51.2",
+      "outputs_to_install": [
+        "out"
+      ],
+      "outputs": {
+        "doc": "/nix/store/np4lannd0w8jpagqw7mry4gklr903s2n-git-2.51.2-doc",
+        "out": "/nix/store/sz4zzn7y6gal019wmqzxvcxc97wkgp9n-git-2.51.2"
+      },
+      "system": "x86_64-darwin",
+      "group": "git",
+      "priority": 5
+    },
+    {
+      "attr_path": "git",
+      "broken": false,
+      "derivation": "/nix/store/i8j12xa8kfb8qya1scl5ig9xpwrsjf7r-git-2.51.2.drv",
+      "description": "Distributed version control system",
+      "install_id": "git",
+      "license": "GPL-2.0",
+      "locked_url": "https://github.com/flox/nixpkgs?rev=50a96edd8d0db6cc8db57dab6bb6d6ee1f3dc49a",
+      "name": "git-2.51.2",
+      "pname": "git",
+      "rev": "50a96edd8d0db6cc8db57dab6bb6d6ee1f3dc49a",
+      "rev_count": 896953,
+      "rev_date": "2025-11-16T09:02:56Z",
+      "scrape_date": "2025-11-18T06:03:36.150633Z",
+      "unfree": false,
+      "version": "2.51.2",
+      "outputs_to_install": [
+        "out"
+      ],
+      "outputs": {
+        "debug": "/nix/store/f6zjr2bcd31qpvj4d4qsvqhfnnyc1kaz-git-2.51.2-debug",
+        "doc": "/nix/store/9bir646idszbrn3j3wz98xq4m0kvzgrp-git-2.51.2-doc",
+        "out": "/nix/store/q6jjgnyivwx7r4wynsi6g36k6srfy7mk-git-2.51.2"
+      },
+      "system": "x86_64-linux",
+      "group": "git",
       "priority": 5
     }
   ]
