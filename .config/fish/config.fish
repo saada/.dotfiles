@@ -1,6 +1,9 @@
 ## secrets
 source ~/.secrets.fish
 
+# local bin
+fish_add_path $HOME/.local/bin
+
 # brew
 fish_add_path /opt/homebrew/bin
 
@@ -38,7 +41,7 @@ fish_add_path $HOME/Downloads/flutter/bin
 # bats bins
 fish_add_path /usr/local/libexec
 
-set -gx EDITOR "hx"
+set -gx EDITOR hx
 set -gx DOCKER_IO_USER saada
 
 # AWS
