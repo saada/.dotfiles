@@ -1,6 +1,6 @@
 {
   "show_edit_predictions": true,
-  "assistant": {
+  "agent": {
     "default_model": {
       "provider": "zed.dev",
       "model": "claude-3-7-sonnet-thinking"
@@ -17,8 +17,13 @@
   "ui_font_weight": 500,
   "buffer_font_size": 16.0,
   "buffer_font_weight": 800,
-  "ui_font_family": "FiraCode Nerd Font",
-  "buffer_font_family": "FiraCode Nerd Font",
+  "ui_font_family": "JetBrains Mono",
+  "buffer_font_family": "JetBrains Mono",
+  "buffer_font_fallbacks": ["Iosevka Extended"],
+  "buffer_font_features": {
+    "calt": true,
+    "liga": true
+  },
   "relative_line_numbers": true,
   "cursor_shape": "block",
   "cursor_blink": false,

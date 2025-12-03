@@ -12,19 +12,9 @@ shell-integration = fish
 # ============================================================================
 # FONT
 # ============================================================================
-font-family = "JetBrains Mono"
-font-family-bold = "JetBrains Mono"
-font-family-italic = "JetBrains Mono"
-font-family-bold-italic = "JetBrains Mono"
+font-family = "FiraCode Nerd Font"
 font-size = 16
 font-thicken = true
-
-# Fallback font (Iosevka Extended for additional glyph coverage)
-font-family = "Iosevka Extended"
-
-# Enable ligatures (calt = contextual alternates, liga = standard ligatures)
-font-feature = calt
-font-feature = liga
 
 # ============================================================================
 # CURSOR
