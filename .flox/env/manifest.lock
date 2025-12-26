@@ -71,10 +71,6 @@
         "pkg-path": "fish",
         "pkg-group": "fish"
       },
-      "flyctl": {
-        "pkg-path": "flyctl",
-        "pkg-group": "flyctl"
-      },
       "fx": {
         "pkg-path": "fx",
         "pkg-group": "fx"
@@ -2298,122 +2294,6 @@
       },
       "system": "x86_64-linux",
       "group": "fish",
-      "priority": 5
-    },
-    {
-      "attr_path": "flyctl",
-      "broken": false,
-      "derivation": "/nix/store/njf9gic5v27qnnfa2agp5mga185znxr0-flyctl-0.3.209.drv",
-      "description": "Command line tools for fly.io services",
-      "install_id": "flyctl",
-      "license": "Apache-2.0",
-      "locked_url": "https://github.com/flox/nixpkgs?rev=2d293cbfa5a793b4c50d17c05ef9e385b90edf6c",
-      "name": "flyctl-0.3.209",
-      "pname": "flyctl",
-      "rev": "2d293cbfa5a793b4c50d17c05ef9e385b90edf6c",
-      "rev_count": 904649,
-      "rev_date": "2025-11-30T15:51:17Z",
-      "scrape_date": "2025-12-02T02:53:50.861473Z",
-      "stabilities": [
-        "unstable"
-      ],
-      "unfree": false,
-      "version": "0.3.209",
-      "outputs_to_install": [
-        "out"
-      ],
-      "outputs": {
-        "out": "/nix/store/z2wm5ivnfjbsrlnnzhgnqspvj3dw4ghn-flyctl-0.3.209"
-      },
-      "system": "aarch64-darwin",
-      "group": "flyctl",
-      "priority": 5
-    },
-    {
-      "attr_path": "flyctl",
-      "broken": false,
-      "derivation": "/nix/store/axq4v705948ld0v4mv3b4556lhq8dvvv-flyctl-0.3.209.drv",
-      "description": "Command line tools for fly.io services",
-      "install_id": "flyctl",
-      "license": "Apache-2.0",
-      "locked_url": "https://github.com/flox/nixpkgs?rev=2d293cbfa5a793b4c50d17c05ef9e385b90edf6c",
-      "name": "flyctl-0.3.209",
-      "pname": "flyctl",
-      "rev": "2d293cbfa5a793b4c50d17c05ef9e385b90edf6c",
-      "rev_count": 904649,
-      "rev_date": "2025-11-30T15:51:17Z",
-      "scrape_date": "2025-12-02T03:02:29.919960Z",
-      "stabilities": [
-        "unstable"
-      ],
-      "unfree": false,
-      "version": "0.3.209",
-      "outputs_to_install": [
-        "out"
-      ],
-      "outputs": {
-        "out": "/nix/store/ylgn222bgnd2dd53y34wnyqxcprbf64a-flyctl-0.3.209"
-      },
-      "system": "aarch64-linux",
-      "group": "flyctl",
-      "priority": 5
-    },
-    {
-      "attr_path": "flyctl",
-      "broken": false,
-      "derivation": "/nix/store/683nfbxy0l5jp4l9my60sl11bfriry2d-flyctl-0.3.209.drv",
-      "description": "Command line tools for fly.io services",
-      "install_id": "flyctl",
-      "license": "Apache-2.0",
-      "locked_url": "https://github.com/flox/nixpkgs?rev=2d293cbfa5a793b4c50d17c05ef9e385b90edf6c",
-      "name": "flyctl-0.3.209",
-      "pname": "flyctl",
-      "rev": "2d293cbfa5a793b4c50d17c05ef9e385b90edf6c",
-      "rev_count": 904649,
-      "rev_date": "2025-11-30T15:51:17Z",
-      "scrape_date": "2025-12-02T03:12:00.676024Z",
-      "stabilities": [
-        "unstable"
-      ],
-      "unfree": false,
-      "version": "0.3.209",
-      "outputs_to_install": [
-        "out"
-      ],
-      "outputs": {
-        "out": "/nix/store/7g1nj0zijmlbydz8iqg5cibp9igm4mda-flyctl-0.3.209"
-      },
-      "system": "x86_64-darwin",
-      "group": "flyctl",
-      "priority": 5
-    },
-    {
-      "attr_path": "flyctl",
-      "broken": false,
-      "derivation": "/nix/store/36rvcaf29294br5l6f221r2cwmr66qj1-flyctl-0.3.209.drv",
-      "description": "Command line tools for fly.io services",
-      "install_id": "flyctl",
-      "license": "Apache-2.0",
-      "locked_url": "https://github.com/flox/nixpkgs?rev=2d293cbfa5a793b4c50d17c05ef9e385b90edf6c",
-      "name": "flyctl-0.3.209",
-      "pname": "flyctl",
-      "rev": "2d293cbfa5a793b4c50d17c05ef9e385b90edf6c",
-      "rev_count": 904649,
-      "rev_date": "2025-11-30T15:51:17Z",
-      "scrape_date": "2025-12-02T03:20:41.632828Z",
-      "stabilities": [
-        "unstable"
-      ],
-      "unfree": false,
-      "version": "0.3.209",
-      "outputs_to_install": [
-        "out"
-      ],
-      "outputs": {
-        "out": "/nix/store/4fnlwjfmv53ilwffcwsfjph0ly4ib4x0-flyctl-0.3.209"
-      },
-      "system": "x86_64-linux",
-      "group": "flyctl",
       "priority": 5
     },
     {
