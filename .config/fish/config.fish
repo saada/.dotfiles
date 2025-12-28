@@ -1,6 +1,8 @@
 ## secrets
 source ~/.secrets.fish
 
+set -gx SHELL (status fish-path)
+
 # local bin
 fish_add_path $HOME/.local/bin
 

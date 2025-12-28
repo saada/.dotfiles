@@ -28,6 +28,3 @@ alias glog="git log --oneline --decorate --color --graph"
 alias gloga="git log --oneline --decorate --color --graph --all"
 alias gsw="git switch"
 alias gswc="git switch --create"
-
-# claude
-alias claude="$HOME/.claude/local/claude"
